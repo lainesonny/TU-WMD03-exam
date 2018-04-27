@@ -1,0 +1,28 @@
+{
+  "name": "tu-wmd03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "test": "./node_modules/.bin/mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nico-develop/TU-WMD03.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nico-develop/TU-WMD03/issues"
+  },
+  "homepage": "https://github.com/nico-develop/TU-WMD03#readme",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^5.1.1"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  }
+}
